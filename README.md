@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Currently 0% Knowledge in all Programming Shits...
 <!--
 **MACteaism/MACteaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
