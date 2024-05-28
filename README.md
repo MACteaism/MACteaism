@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Mac and my life is in crisis right now coz, I'm currently 0% knowledge in all Programming Shits...
-## Please Help Me! :(
+I'm Mac and my life is in crisis right now coz, I'm currently 0% knowledge in all Programming Shits...__
+Please Help Me! :(
 <!--
 **MACteaism/MACteaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
